@@ -1,0 +1,10 @@
+
+
+HW4/__pycache__/
+HW4/cifar10/*
+HW5/__pycache__/
+HW5/cifar10/*
+HW6/__pycache__/
+HW6/cifar-10-batches-py/*
+HW6/utils/__pycache__/
+HW6/cifar-10-python.tar.gz
